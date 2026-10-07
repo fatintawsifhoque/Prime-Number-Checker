@@ -1,10 +1,5 @@
 
-***
-
-### 📄 ৩. Combined (Dual Framework) Version README.md
-
-```markdown
-# 🔢 Prime Number Checker (Dual Framework Edition)
+# 🔢 Prime Number Checker
 
 A real-time, highly optimized Prime Number Checker built using **both Vue 3 and React**. 
 
